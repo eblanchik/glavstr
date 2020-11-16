@@ -1,0 +1,28 @@
+.block{
+background:#CFCFCF;
+border: 1px solid #000;
+border-radius:10px;
+padding:25px;
+margin:25px;
+width:65%;
+}
+body{
+background-color: #181818;
+font-color:#fff;
+}
+#lol{
+    width: 320px;
+    height:180px;
+    float: left;
+}
+p{
+align:right;
+margin: 10px;
+padding:10px;
+}
+img{
+    padding: 10px;
+    width: 320px;
+    height:200px;
+    float: left;
+}
